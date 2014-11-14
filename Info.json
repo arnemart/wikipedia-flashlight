@@ -1,0 +1,6 @@
+{
+  "name": "wikipedia",
+  "displayName": "Wikipedia",
+  "description": "Search wikipedia",
+  "examples": ["w monkey"]
+}

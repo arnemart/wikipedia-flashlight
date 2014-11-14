@@ -1,0 +1,2 @@
+w ~wikipedia_query(query here)
+wiki ~wikipedia_query(query here)
